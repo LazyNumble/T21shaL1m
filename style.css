@@ -6,7 +6,7 @@
 p{
     /* "p" means paragraph lahat ng ilalagay mo rito is for paragraph only*/
     line-height: 13px;/*ito ung nagbibigay ng gap sa text*/
-    background:url(bbb.png) no-repeat;
+    background:url(aaaa.png) no-repeat;
     max-width:100%;
     height:1000px;
     -webkit-background-clip: text; /*ito ung dahilan kaya muka image ung text*/
