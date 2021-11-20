@@ -5,7 +5,7 @@
 }
 p{
     /* "p" means paragraph lahat ng ilalagay mo rito is for paragraph only*/
-    line-height: 10px;/*ito ung nagbibigay ng gap sa text*/
+    line-height: 12px;/*ito ung nagbibigay ng gap sa text*/
     background:url(bbb.png) no-repeat;
     max-width:100%;
     height:1000px;
